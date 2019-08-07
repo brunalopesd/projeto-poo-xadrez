@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="poo_tabuleiro">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/poo_tabuleiro/jar/poo_tabuleiro.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
