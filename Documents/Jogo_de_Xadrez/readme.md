@@ -1,34 +1,6 @@
 # Xadrez!
 
-* obs: Não é preciso fazer o xadrez funcionar!!!!!
-
-## Considerções:
-
-* Usem o projeto do eclipse ou do netbeans para começar. Caso preferir outra IDE ou outra forma de desenvolvimento, apenas copie as classes e importe o arquivo "poo_tabuleiro" (poo_tabuleiro/src/poo_tabuleiro.jar) no local adequado.
-
-* O arquivo poo_tabuleiro é do tipo jar e contém os arquivos .class das classes que não estão diretamente declaradas no projeto. Os fontes que originaram o jar entram-se na pasta src em poo_tabuleiro.
-
-### É necessário adicionar o arquivo poo_tabuleiro.jar ao projeto.
-
-* Eclipse:
-
-1. clicar com o botão direito do mouse em cima da pasta do projeto.
-
-2. Build Path > add External Archives.
-
-3. Escolha o poo_tabuleiro.jar.
-
-* Netbeans:
-
-1. clicar com o botão direito do mouse em cima da pasta do projeto.
-
-2. Propriedades
-
-3. Bibliotecas
-
-4. adicionar JAR/pasta
-
-5. Escolha o poo_tabuleiro.jar.
+* obs: Não era preciso fazer o xadrez funcionar
 
 ### Tarefas
 
