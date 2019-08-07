@@ -91,13 +91,4 @@ A Torre pode andar em cima de uma peça de outra cor, mas não pode andar em cim
 +---+---+---+---+---+---+---+---+
 |   |   |   |- -|   |   |   |   |
 +---+---+---+---+---+---+---+---+
-```
 
-## Recomendações:
-1. Entender o que o código faz antes de começar a programar.
-2. Fazer diagramas, testes e comentários para ajudar no entendimento do código.
-
-## Condições:
-1. No máximo em dupla.
-2. Entrega no dia 30/5, por email.
-3. A dupla poderá ser arguida sobre as resoluções e caso as respostas não sejam satisfatórias, poderá ter suas notas alteradas.
