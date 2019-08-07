@@ -1,7 +1,0 @@
-eclipse/**/*.class
-eclipse/.DS_Store
-eclipse/.classpath
-eclipse/.project
-eclipse/.settings/
-**/nbproject/private/
-.DS_Store
